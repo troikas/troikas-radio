@@ -32,11 +32,30 @@ A lightweight Internet Radio application built with Python.
 MIT License - Copyright (c) 2024
 
 ## ⚙️ Ρύθμιση Σταθμών (Configuration)
-Η εφαρμογή διαβάζει τους σταθμούς από ένα αρχείο JSON. Για να λειτουργήσει σωστά, πρέπει να τοποθετήσετε το αρχείο radio_stations.json στην παρακάτω διαδρομή:
+Η εφαρμογή αποθηκεύει τους σταθμούς στο αρχείο:
+\`~/.config/troikas-radio/radio_stations.json\`
 
-`~/.config/troikas-radio/radio_stations.json`
+**Σημείωση:** Αν το αρχείο ή ο φάκελος δεν υπάρχουν, η εφαρμογή θα τα δημιουργήσει αυτόματα κατά την πρώτη εκκίνηση. Μπορείτε μετά να επεξεργαστείτε το JSON αρχείο για να προσθέσετε τους δικούς σας σταθμούς.
 
 ### Παράδειγμα Δομής JSON:
+```json
+{
+  "radio_stations": [
+    {
+      "freq": "105.5",
+      "title": "1055 rock",
+      "src": "http://radio.1055rock.gr:30000/1055"
+    }
+  ]
+}
+```
+## ⚙️ Setting Stations (Configuration)
+The application saves the stations in the file:
+\`~/.config/troikas-radio/radio_stations.json\`
+
+**Note:** If the file or folder does not exist, the application will automatically create it on first launch. You can then edit the JSON file to add your own stations.
+
+### JSON Structure Example:
 ```json
 {
   "radio_stations": [
