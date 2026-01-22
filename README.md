@@ -1,5 +1,7 @@
 # TROiKAS Radio 📻
 
+![App Screenshot](screenshot.png)
+
 [English](#english) | [Ελληνικά](#greek)
 
 ---
