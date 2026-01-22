@@ -1,6 +1,6 @@
 # TROiKAS Radio 📻
 
-![App Screenshot](screenshot.png width="600")
+<img src="screenshot.png" width="600">
 
 [English](#english) | [Ελληνικά](#greek)
 
