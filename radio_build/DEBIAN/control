@@ -1,0 +1,8 @@
+Package: troikas-radio
+Version: 1.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-tk, python3-vlc, vlc
+Maintainer: Troikas
+Description: TROiKAS Radio Player - A simple and clean radio player.
