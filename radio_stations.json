@@ -1,0 +1,40 @@
+{
+  "radio_stations": [
+    {
+      "freq": "105.5",
+      "title": "1055 rock",
+      "src": "http://radio.1055rock.gr:30000/1055",
+      "howl": null
+    },
+    {
+      "freq": "89",
+      "title": "Rainbow",
+      "src": "https://n09.radiojar.com/083wqknmsuhvv?1668103694=&rj-tok=AAABmvTR0KIAECn3Ka5ZJQtYhg&rj-ttl=5",
+      "howl": null
+    },
+    {
+      "freq": "104.7",
+      "title": "Rock Radio",
+      "src": "https://s9.yesstreaming.net:2199/proxy/anyhowmo/stream",
+      "howl": null
+    },
+    {
+      "freq": "96.8",
+      "title": "Velvet",
+      "src": "http://s10.voscast.com:9942/;",
+      "howl": null
+    },
+    {
+      "freq": "96.9",
+      "title": "Rock fm",
+      "src": "http://stream.radiojar.com/redfm963",
+      "howl": null
+    },
+    {
+      "freq": "90",
+      "title": "Skylos FM",
+      "src": "https://n0f.radiojar.com/819r8wupdrruv?1668885399=&rj-tok=AAABhJFbcHoAKR7LzIRXHjiKGw&rj-ttl=5",
+      "howl": null
+    }
+  ]
+}
