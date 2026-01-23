@@ -35,7 +35,7 @@ MIT License - Copyright (c) 2024
 Η εφαρμογή αποθηκεύει τους σταθμούς στο αρχείο:
 \`~/.config/troikas-radio/radio_stations.json\`
 
-**Σημείωση:** Αν το αρχείο ή ο φάκελος δεν υπάρχουν, η εφαρμογή θα τα δημιουργήσει αυτόματα κατά την πρώτη εκκίνηση. Μπορείτε μετά να επεξεργαστείτε το JSON αρχείο για να προσθέσετε τους δικούς σας σταθμούς.
+**Σημείωση:** Αν το αρχείο ή ο φάκελος δεν υπάρχουν, η εφαρμογή θα τα δημιουργήσει αυτόματα κατά την πρώτη εκκίνηση.
 
 ### Παράδειγμα Δομής JSON:
 ```json
@@ -53,7 +53,7 @@ MIT License - Copyright (c) 2024
 The application saves the stations in the file:
 \`~/.config/troikas-radio/radio_stations.json\`
 
-**Note:** If the file or folder does not exist, the application will automatically create it on first launch. You can then edit the JSON file to add your own stations.
+**Note:** If the file or folder does not exist, the application will automatically create it on first launch.
 
 ### JSON Structure Example:
 ```json
